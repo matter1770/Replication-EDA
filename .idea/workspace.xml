@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c33927a5-ce10-4727-ba18-3ad0ee6e6f78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/processing.py" afterDir="false" />
-    </list>
+    <list default="true" id="c33927a5-ce10-4727-ba18-3ad0ee6e6f78" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="19" />
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -29,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/data_ingestion.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="189" lean-forward="true" selection-start-line="189" selection-end-line="189" />
+              <caret line="189" selection-start-line="189" selection-end-line="189" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -240,7 +237,7 @@
     <entry file="file://$PROJECT_DIR$/src/data_ingestion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="189" lean-forward="true" selection-start-line="189" selection-end-line="189" />
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -260,7 +257,7 @@
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="19" />
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
