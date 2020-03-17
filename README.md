@@ -16,14 +16,16 @@ Replication-EDA
 ├── .gitattributes
 ├── README.md
 ├── config
-│   ├── data-params.json
-│   └── test-params.json
+│   ├── data-params.json
+│   ├── unavailable_images.txt
+│   ├── env.json
+│   └── test-params.json
 ├── jupyter-notebook-writeup
-│   ├── EDA.ipynb
-│   ├── images
+│   ├── EDA.ipynb
+│   └── images
 ├── src
-│   └── data_ingestion.py
-│   └── processing.py
-│   └── images
+│   ├── data_ingestion.py
+│   ├── processing.py
+│   ├── test_df.csv
+│   └── images (contains images necessary for creating visualization)
 ├── run.py
-

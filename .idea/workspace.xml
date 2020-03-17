@@ -1,7 +1,1265 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c33927a5-ce10-4727-ba18-3ad0ee6e6f78" name="Default Changelist" comment="" />
+    <list default="true" id="c33927a5-ce10-4727-ba18-3ad0ee6e6f78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Replication-EDA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Replication-EDA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/data-params.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/data-params.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/test-params.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/test-params.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter-notebook-writeup/EDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/book/1895/Christ's heirs.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/case furniture/1935/Record rack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/ceiling painting/1900/Ceiling decoration of putti and birds.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/ceiling painting/1900/The four seasons.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/ceiling painting/1905/Aurora.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/chair/1945/Stool.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/collage/1900/Commemorative plate for the marriage of queen Wilhelmina.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1890/A corner of the farmyard.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1890/Barn interior in the Eastern Netherlands.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1890/Mountain forest with cottage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1890/Pitcher, jug and basket.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1890/Woods with stream.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/Girl with bonnet writing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/Haystack in farmyard with chickens and ducks.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/Head of a girl.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/Portrait of Noël Biersteker (1894-1943).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/St. Jacob's church with small tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/St. Jacob's church with tree at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/St. Jacob's church[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/Three standing female figures.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/Tree sketch for St. Jacob's church.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1895/Village church at Blaricum.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/A stage design.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Amsterdam skyline viewed from the west.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Birch trees along a pathway.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Bridge on the Middenweg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Drydock at Durgerdam, mixed media.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Evening on the Weesperzijde.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/F.H. Mondriaan playing the violin.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Farm scene with the St. Jacob's church.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Farm setting at Winterswijk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Farm woman with cow (after Julien Dupré).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Farmyard with carriage barn in the Achterhoek, drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Farmyard with fruit trees and haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Female portrait bust in exotic costume.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Female torso with folded hands.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Frits Mondriaan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Group of moored barges.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Head of an Achterhoek farm woman.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Head of farm woman with polkamuts.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Horse and cart study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Horse on the bank.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/House on the Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Irrigation ditch with young pollarded willow III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Irrigation ditch with young pollarded willow, drawing I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Irrigation ditch with young willow II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Johanna Mondriaan at the piano.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Landzicht farm viewed from upstream, drawing in vertical format.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Moored Tjalk, Amsteldijk and Weesperzijde as background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Moored small barges among buildings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/On the Lappenbrink.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Oriental chrysanthemum in a glass tube.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Outline drawing for polder landscape with irrigation ditch and two cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Passion flower.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Portrait of Jan Coenraad Holtzappel (1868-1948).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Portrait of Josephine Marie Destrée (1854-1928).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Portrait of Marinus Mathijs Ritsema van Eck (1880-1948).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Portrait of Reinder Jacobus Nicolaas Solkamans (1866-1954).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Portrait of the daughters of Jan Coenraad Holtzappel (1868-1948).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Resting dog.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Seated girl on a chair.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Side view of a farm building near Winterswijk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Skating scene Marken.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Sketch of standing cows facing right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Sketches of standing and reclining cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Small birch forest.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Stadhouderskade, Amsterdam.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Standing nude girl with raised arms.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Study for Stadhouderskade, two-page drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Summer conversation Zuid-Beveland in Zeeland.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/The Lappenbrink, view toward the Meddosestraat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/The Lappenbrink, view toward the Nieuwstraat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/The royal wax candle factory, drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/The weavers' house, drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/The weavers' house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Three chrysanthemums.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Threshing area in an Achterhoek farm building.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Tjalk with rigging moored on the Weesperzijde.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Triangulated farmhouse façade with polder in blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Two cows in a pot stall.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Upper façade of house on the Hemonylaan, Amsterdam.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/View from a bridge on the Achterweg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/View near the Weesperzijde, tower of Blooker chocolate factory in the distance.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Village church.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Water lily blossom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Woman with closed eyes and landscape with figure.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Wood with beech trees, drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Wood with beech trees, watercolor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Young woman (with bulging eyes) leaning to her left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1900/Young woman resting.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/At the wash stoop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Barn and haystack behind row of willows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Barn doors of a farm building at Nistelrode I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Barn doors of a farm building at Nistelrode II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Bend in a river with farmstead sheltered by trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Bend in the Gein with poplars, three isolated[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Bend in the Gein with row of ten or eleven poplars.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Bend in the Gein with young willows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Brabant farm building with haystacks.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Compositional study for Landzicht farm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Compositional study for Zomernacht.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Compositional study for farm at Duivendrecht.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Cow sketches.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Dredge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Evening; sheepfold and farmstead.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm at Duivendrecht detail study of right half of composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm at Duivendrecht detail study of shed and water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm at Duivendrecht detail study of shed.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm at Duivendrecht study for mixed media drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm at Duivendrecht[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm building behind arched trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm setting at Loosduinen.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farm setting, three tall trees in the foreground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farmstead along the Gein screened by tall trees[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farmstead under oak trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farmstead.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Farmyard with sheep.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Fen near Saasveld.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with gate and trees at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with leafless tree silhouettes and moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with leafless tree silhouettes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with oak trees at dusk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with oak trees at dusk[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with row of trees at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with summer oak tree English oak, wooden fence, farm Depicted place In the case of topographic.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Field with young trees in the foreground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Fields with haystacks.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Five chrysanthemums in a round vase.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Geinrust farm close frontal view.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Geinrust farm compositional study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Geinrust farm in watery landscape.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Geinrust farm with isolated trees under a gray sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Geinrust farm with saplings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Hannes van Nistelrode at his pot stove.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Haystack in the evening.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Isolated tree on the Gein compositional study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Isolated tree on the Gein with rowboat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Isolated tree on the Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Joop Siedenburg at the piano.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Landscape near Oele.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Landscape sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Landzicht farm compositional study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Landzicht farm on verso of music program.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Leafless tree growths.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Meandering watercourse.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Old pollarded willow, irrigation ditches and buildings in the distance.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Oostzijdse mill in moonlight compositional study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Oostzijdse mill viewed from downstream compositional study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Orchard with enmeshed tree branches.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Pine woods near Oele.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Portrait of Cornelia Hendrika Maria den Breejen (1887-1985).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Portrait of Hendrikus Vredenrijk Hogerzeil (1839-1907).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Portrait of Rijmpje Kessler (1878-1957).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Post mill at Veghel.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Riverscape with buildings left and right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Sheepfold with haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Sheepfold with haystack[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Sketch of a calf lying down.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Sketch of a tree branch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Sketch of two willows with buildings at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Stammer mill with summer house and haystack[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Steam-driven ferry moored on the Weesperzijde.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Study for five trees along the Gein with moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Study for the Winkel mill.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Study of two marigolds 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Tall building on the water sheltered by trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Tall tree and gabled building behind a water course.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/The Oostzijdse windmill on het Gein near Abcoude.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/The white bull calf[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Three pollarded willows, irrigation ditch and farmstead in the distance.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Truncated view of two farm buildings screened by tree growths.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Vase with dahlia's.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Willow grove.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1905/Wip mill and fields.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Amaryllis in round bottle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Amaryllis study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Chrysanthemum blossom leaning left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Chrysanthemum blossom leaning right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Chrysanthemum blossom viewed frontally.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Chrysanthemum with red curtain.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Chrysanthemum.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Church tower at Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Drawing for chrysanthemum with red curtain.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Drawing for pointillist study with dunes and sea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Dunes and sea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Dunes and sea[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Dunes near Domburg[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Dunes, piers and sea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Dunes, piers and sea[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Dying chrysanthemum.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Eucalyptus.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Farm at Duivendrecht mixed-media drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Female nude bust portrait.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Fields in Twente I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Fields in Twente II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Fields in Twente III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Final study for evening the red tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Forest study for the trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Foxtail lily study I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Foxtail lily study II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Foxtail lily study III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Foxtail lily study IV.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Foxtail lily study V.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Gladiolus.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Head of Zeeland farmer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Isolated tree on the Gein silhouette drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Lighthouse at Westkapelle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Lily.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Lily[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Meisjeskop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Nude study for Evolution.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Nude.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Piers and sea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Portrait of Marinus Mathijs Ritsema van Eck (1880-1948)[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Portrait of waarschijnlijk Eva Bernardine de Beneditty (1888-1969).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Preliminary study for evening the red tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Reclining nude.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Rhododendrons.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/River landscape with bridge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Rose.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Self-portrait, eyes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Self-portrait, face and background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Self-portrait, isolated face.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Self-portrait[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Sketch of apple tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Spring.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Standing female nude.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Study for arum lily.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Study for portrait of a girl in red.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Study for self portrait.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Study of a dahlia  verso study of a dahlia.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Study of a dahlia (sketchbook sheet 5).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Study of trees 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Three flower blossoms, one a chrysanthemum.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Tree and sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Tree study for the gray tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Tree[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Trees[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Two female figures.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Two trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1910/Upright sunflower.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Amaryllis[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Branches.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg  verso Trees reflecting in water (14-15).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (10).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (16).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (17).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (18).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (20).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (28).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (7).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church at Domburg (8).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church façade 1 church at Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church façade 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church façade 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church façade 4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church façade 5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church façade 6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Church façade 7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Compositie 2 (authentic).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Composition (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Composition in circle (church façade).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Composition with color planes 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Demolished building (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Demolished building (6).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Demolished building (7).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Dunes (12).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Dunes (21).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Dunes (25).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Farm near Duivendrecht, in the evening.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Farm near Duivendrecht[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Façade study for composition in oval with color planes 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Façade.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Flowering tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Fragment church façade composition in oval.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Fragment church façade.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Horizontal pier (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Leaves.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Leaves[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Ocean 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Ocean 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Ocean 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Ocean 4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Ocean 5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Paris church façade.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Paris church façade[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Paris courtyard façades, Rue du Départ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Paris courtyard façades.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Paris roofs.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Paris roofs[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean 4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean 5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Pier and ocean starry night (24).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/River scene with sailboat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Scaffolding 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Scaffolding 2, Paris.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Sea (11).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Sea (19).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Sea (5).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Sea (6).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Sea and sun () (29).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Self-portrait (verso).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Self-portrait.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Side façade study for composition in oval with color planes 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Study for a composition in color ()  verso plus and minus sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Study for tableau no. 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tableau III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tableau no. 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tree (22).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tree (23).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tree (26).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tree (27).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tree (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tree (9).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Tree[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Trees[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Two arum lilies.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Windmill at Blaricum.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Windmill in the evening.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1915/Windmill.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Arum lily[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Composition with blue, black, yellow and red[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Gladioli in a bottle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Study for Tableau I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Study of a dahlia (sketchbook sheet 1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Study of a dahlia (sketchbook sheet 2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Study of a dahlia (sketchbook sheet 3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1920/Study of a dahlia (sketchbook sheet 4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Color scheme for the decoration of the library-study of Ida Bienert.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Designs for the library-study of Ida Bienert, the so-called Salon de madame B..., à Dresden.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Portrait of Martha Frieda de Fries (1893-...).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet A three square compositions  verso two lozenge compositions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet B three lozenge compositions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet C one lozenge, two rectangle compositions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet D three rectangle compositions  verso fragment.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet E three rectangle compositions'.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet F two square compositions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet G rectangle composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sheet I sketch for a rectangle composition with color indications.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sketch of four lozenge compositions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1925/Sketch of two lozenge compositions  verso sketch of two fragments of lozenge compositions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1930/Opzet voor Compositie met rood, geel en blauw.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1930/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1930/Tableau-poème.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1935/Study for a composition  verso study for a composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1935/Study for a composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1935/Study for a composition[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1935/Study of three marigolds in a glass for an album.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Broadway boogie woogie I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Broadway boogie woogie II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Broadway boogie woogie[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Self-portrait, after a reproduction.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Self-portrait, after reproduction.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Self-portrait[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Sketch for a composition on a cigarette package.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Sketch for a composition on a cigarette package[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Sketch for a composition on a milk tablet package.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Sketch for a composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Study I for Broadway Boogie Woogie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Study for a composition[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Study for a lozenge composition, 1938 ()  verso Study for a lozenge composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Study for a lozenge composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1940/Two studies for a composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1945/Victory boogie woogie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/1960/View from the Kortenhoefsedijk towards the church of Kortenhoef Identificatie onderwerp Denninger, Carole (1999).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Chrysanthemum in a bottle[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Iris in a bottle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Lily  verso sketch of a chrysanthemum.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Rose in a glass.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Rose in a glass[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Study of four marigolds.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/drawing/Date Missing/Study of marigolds in a glass.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/ethnographic/1900/Young woman with cape and hat etching.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/graphic design (guide term)/1900/Ex libris for H.H. Crabb.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/graphic design (guide term)/1905/Ex libris for E.E. Seelig Strebe zum Licht with figure.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/graphic design (guide term)/1905/Ex libris for E.E. Seelig Strebe zum Licht.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/graphic design (guide term)/1905/Ex libris for E.E. Seelig carpe diem.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/graphic design (guide term)/1905/Ex libris for E.E. Seelig life is a comedy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1895/Irrigation ditch with bridge, sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1895/Irrigation ditch with wood gate at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1895/Irrigation ditch, bridge and goat, sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Blossoming trees before a haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Country lane with row of workers' houses.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Drydock at Durgerdam, oil sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Farm building with haystack viewed along the horizon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Farm buildings in Het Gooi, veiled by trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Farmstead in Het Gooi with three buildings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Farmstead with willows on the water I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/House on the Gein, 1741, reversed sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/House on the Gein, 1741.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Irrigation ditch with young pollarded willow II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Irrigation ditch with young pollarded willow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Oostzijdse mill, oil sketch in square format.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Polder landscape with silhouetted young tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Sketch of uncultivated open landscape.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/The Lappenbrink, view toward the Nieuwstraat, oil sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Tree growth.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Two girls in a wood.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Underpainting of landscape with high horizon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1900/Wijk aan Zee.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Barn and haystack behind row of willows[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Barn doors of a Brabant farm building.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein detail study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein with poplars II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein with poplars, three isolated I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein with poplars, three isolated III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein with poplars, three isolated[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein with row of eleven poplars I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein with row of eleven poplars II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Bend in the Gein with row of eleven poplars III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Dredge I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Dredge II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farm at Duivendrecht.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farm building with well in daylight.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmstead along the Gein screened by tall trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmstead under oak trees I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmstead under oak trees II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmstead under oak trees III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmstead with long row of trees on the Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmyard sketch with pollarded willow at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmyard sketch with two cows grazing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Farmyard with sheep[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Fen near Saasveld[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Field with gate and trees at right[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Field with two tree silhouettes I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Field with two tree silhouettes II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Field with young trees in the foreground[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Geinrust farm with three small trees at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Isolated tree on the Gein I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Isolated tree on the Gein II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Isolated tree on the Gein with gray sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Isolated tree on the Gein with streaked sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Isolated tree on the Gein with yellow-orange sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Landscape with appel tree at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Landzicht farm with reflection in water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Landzicht farm with white sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Landzicht farm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/On the land, oil study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Oostzijdse mill with cropped wings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Oostzijdse mill, horizontal oil sketch with blue sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Oostzijdse mill, horizontal oil sketch with brownish-gray sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Oostzijdse mill, vertical oil sketch with blue sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Stammer mill with summer house and haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Stammer mill with summer house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Study of two cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/The Landzicht farm with fence and gateposts.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/The white bull calf.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Watercourse, field with cows and sky with cloud.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Willow grove near the water with chickens.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1905/Woods near Oele.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Apple tree in blue with wavy lines I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Church at Domburg with tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Church at Oostkapelle, nave and tower.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Dune sketch in bright stripes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Eucalyptus (authentic).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Images of torsos.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Oil sketch for blue apple tree series.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1910/Two trees with orange foliage against blue sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/oil sketch/1915/Color study with pink, blue, yellow and white.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Basket with apples.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Brook with sluice near Winterswijk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Church along the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Church seen from the rear.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Dead hare.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Dusk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Farm interior with hearth in the Achterhoek.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Lane with sheaves of rye.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Pitcher with onions.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Puppy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Sheaves of rye with plow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/Ships in the moonlight.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1890/St. Jacob's church in Winterswijk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Achterhoek farmhouse with haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Country road and farm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Country road.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Cows beside the water (copy after Stortenbeker).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Farm building near irrigation ditch with farmer at work.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Farm buildings with trees and water ditch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Farmstead along a canal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Field with church tower and haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Haystack and farm sheds in a field.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Haystack with willow trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Portrait of Dorothy Gretchen Biersteker (1891-1978).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Portrait of Queen Wilhelmina (1880-1962) as a princes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Portrait of a little boy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Scattered trees on sloping land.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Still life.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Stream bordered by wooded landscape.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Study of apples.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/The Broeker house.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/The Singel with round Lutheran church.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Three farm workers near a gateway.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Thy word is the truth.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Tree trunks on sloping land.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Trees and cows along a stream.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Trees and cows in a field.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Waalseilandgracht with bridge and flat barges.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Waalseilandsgracht with bridge and moored tjalk barges.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Warmth.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Windmill in sunlight near a stream.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Woman peeling potatoes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Woman with spindle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Women doing the wash.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1895/Wood near Driebergen.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Apples, coffee pot and large copper pan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Beach scene.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Bust portrait of an old man.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Country lane with houses.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Curved irrigation ditch bordering farmyard with flowering trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Factory district near the Boerenwetering.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm along the river Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm building in Het Gooi with child.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm building in Het Gooi, fence and trees in the foreground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm building in Het Gooi, viewed from a field.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm building in Overijssel.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm building near Laren.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm buildings in Winterswijk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm buildings in an Achterhoek village.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm buildings near a canal with small boat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm buildings with bridge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm buildings with fence in foreground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm complex in Het Gooi, roadway in foreground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm interior with woman peeling potatoes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm setting with foreground tree and irrigation ditch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farm sheds and haystacks in the dunes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmhouse along the water shielded by arch of trees I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmhouse along the water shielded by arch of trees II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmhouse with garden.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmhouse with wash on the line.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmstead and irrigation ditch with prow of rowboat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmstead in Het Gooi, viewed between trees and over fence.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmyard in Het Gooi flanked by saplings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmyard in the Achterhoek.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Farmyard with carriage barn in the Achterhoek.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Façade of Maria's Hoeve farm building on the Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Female head in profile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Fields overlooking Arnhem from the north.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Fields with stacked sheaves of rye.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Footbridge in the Schinkelbuurt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Fragment of an irrigation ditch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Free impression of a polder landscape.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Gabled farmhouse façade in white.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Gabled farmhouse façade with large gateposts.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Girl looking to her left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Goats grazing near buildings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Grazende kalfjes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Haystack behind silhouetted tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Haystacks, farm building and farm woman with the wash.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/House façade on the water with woman washing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/House in the countryside.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/House on the Gein, 1741[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Houses and paltrok mill on the Voorweg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Irrigation ditch with mature willow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Irrigation ditch with pollarded willows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Irrigation ditch with two willows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Landscape with four cows in profile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Landzicht farm viewed from downstream with horizontal format.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Landzicht farm viewed from downstream with visible house gable.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Lange Bleekerssloot view toward the Kostverlorenvaart.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Lange Bleekerssloot with barge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Lange Bleekerssloot with tower of the West Church.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Moored barge with horses.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Near the Lappenbrink.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/On the Ringdijk, Watergraafsmeer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Oostzijdse mill viewed from dock at Landzicht farm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Oostzijdse mill with woman at dock of Landzicht farm.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Oranges and decorated plate.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder landscape with group of five cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder landscape with irrigation ditch and fence.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder landscape with irrigation ditch and five cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder landscape with irrigation ditch and two cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder landscape with irrigation ditch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder landscape with two cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder landscape, smoke rising in background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder with moored boat near Amsterdam I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Polder with moored boat near Amsterdam II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Portrait of Carolus Marinus Johannes Willem van Rijnen (1832-1903).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Portrait of Egbert Kuipers (1828-1892) and Jantje Wiegersma (1828-...).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Portrait of Egbert Kuipers (1828-1892).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Portrait of Elisabeth Sophia Maria (Betsy) Cavalini (1874-1933).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Portrait of Jan Coenraad de Ruyter de Wildt (1841-1911).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Portrait of Louise Charlotte Mathilde van den Bosch (1843-1907).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Portrait of Pieter Cornelis Mondriaan (1872-1944).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Rear gable of an Achterhoek farm building.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Rear gables of farm buildings with figures.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Roadway and farm building near Arnhem.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Rocky coast in England.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Shipworks.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Six young birch trees in a field.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Small farm buildings in Het Gooi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Small house along a canal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Spring idyll.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Stadhouderskade, oil sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Standing male nude.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Still life apples, pot with flowers and metal pan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Still life with a plaster bust.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/The Boerenwetering with shed of the royal wax candle factory.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/The Kostverlorenvaart.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/The royal wax candle factory, oil sketch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Three Italian poplars and buildings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Three chrysanthemum blossoms in a round pot.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Three chrysanthemum blossoms.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Truncated view of a gabled house façade on a canal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Truncated view of the Broekzijder Mill on the Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Truncated view of the Broekzijder mill on the Gein, wings facing west.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Truncated view of tjalk and house façade.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Two chrysanthemum blossoms.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Two gabled house façades along a canal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Two trees silhouetted behind a water course.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Unloading a sand barge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Vinkenburg te Diemen.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/White roses.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Willow grove, trunks leaning left I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Willow grove, trunks leaning left II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Willows bordering a watercourse, buildings left and right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Willows bordering an irrigation ditch near a farm building.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Windmill with church towers in the distance.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Wingless paltrok mill in the Schinkelbuurt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Winter landscape with three farm buildings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Woman and farm building in the Achterhoek.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Woods.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Yellow chrysanthemums in a ginger pot.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1900/Young child.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/A farmhouse behind a fence.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Apple trees and chickens in a farmyard.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Bend in the Gein with poplars, three isolated, and farm woman with cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Bend in the Gein with poplars, three isolated[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Bend in the Gein with poplars.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Bend in the Gein with row of eleven poplars IV.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Bend in the Gein with row of ten poplars.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Black and white Heifer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Brabant barn interior.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Brabant farm building and shed.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Brabant farm building with pump.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Broekzijder mill in the evening.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Brown and white heifer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Brown and white ox steer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Buildings along the water with a wash stoop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Cows in a meadow with tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Curved canal with farm building at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Dredge III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Dune and sea with streaked sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Evening landscape with cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Evening sky with luminous cloud streaks.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Evening sky with luminous cloud.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Evening sky with moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Evening sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Evening[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farm at Duivendrecht[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farm building and well.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farm building with fence reaching to the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farm building with white side façade.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farm buildings in white and red near a green field.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farm setting, four tall trees in the foreground I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farm setting, four tall trees in the foreground II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmhouse façade with curb roof.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmhouse façade with well boom at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead façade with leafless oak.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead on the Gein screened by tall trees greenish streaks sky with crescent moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead on the Gein screened by tall trees ultramarine sky with yellow ray of sunset.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead on the Gein screened by tall trees with streaked sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead with Willows on the Water III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead with long row of trees on the Gein[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead with willows on the water II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Farmstead with willows on the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Fen near Saasveld[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Field with oak trees at dusk[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Field with row of trees at left[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Field with tree silhouette at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Five tree silhouettes along the Gein with moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Gabled farm hut in the evening.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Gabled farmhouse façade with tree, fence and gateposts in front.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Gabled farmhouse with row of trees and blue sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Geinrust farm in the mist.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Geinrust farm surrounded by dense foliage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Geinrust farm with isolated tree at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Geinrust farm with truncated tall trees and saplings.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Gladioli (in a bottle).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Haystack behind trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Haystack in the evening[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Irrigation ditch with cows and sheltered farm complex.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Isar Harlemia a Saint Bernard.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Isolated tree on the Gein detail study.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Isolated tree on the Gein in late evening.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Isolated tree on the Gein in winter.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Landscape with apple tree at left winter landscape.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Landscape with pink cloud.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Landscape with three reclining cows.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Landschap bij Uden.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Landzicht farm under light blue sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Landzicht farm, dark night with moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Meandering river, windmill in the distance.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Mill near tall trees with bright color reflections.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Molen aan 't Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Moored tjalk and other barges.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Moored tjalk in purple.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Moored tjalk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Mooring docks near the Omval.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Narrow farm building and trees along the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Near the ox stall, Hilvarenbeek.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/No Title.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/On Ouderkerkerdijk near the Omval in the evening II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/On Ouderkerkerdijk near the Omval.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill along the river Gein by moonlight.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill from downstream with evenly streaked sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill viewed from downstream with mill at center.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill viewed from downstream with streaked blue and yellow sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill viewed from downstream with streaked pinkish-blue sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill with extended blue, yellow and purple sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill with extended light blue, yellow and violet sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill with panoramic sunset and brightly reflected colors.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill with panoramic sunset, mill at center.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill with panoramic sunset, mill at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill with streaked reddish sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Oostzijdse mill.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Open landscape, train along the horizon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Panoramic sunset with two windmills.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Portrait of Cornelis Bergman (c. 1903-...).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Portrait of Dirk Johan Hulshoff Pol (1894-1972).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Portrait of Jan Pieter Geres Hulshoff Pol (1896-1928).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Portrait of Ludwig Wilhelm Schöffer (1831-1904).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Post mill at Heeswijk, rear view.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Post mill at Heeswijk, side view.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Riverscape in the evening, buildings at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Riverscape with row of trees at left, sky with pink and yellow-green bands farmstead on the Gein screened by tall trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Row of eight young willows reflected in the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Row of young willows reflected in the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Sailboat moored in a river.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Sheepfold with flock of sheep.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Sheepfold with haystack at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Sheepfold with tree at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Sheltered farmhouse with tall manicured trees at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Silhouette of a spreading tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Stammer mill with streaked sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Still life with a pot of honesty, containers and fruit.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Still life with mirror, containers, honesty and fruit.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Summer night preliminary study in oil.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Summer night.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Sunflower in a vase.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Tall tree silhouettes with bright colors.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/The home Hannes van Nistelrode at his pot stove.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/The old mill at Oele with moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/The old mill at Oele.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/The red cloud.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Three haystacks in a field.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Tip-up bridge in a meadow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Tree trunks, irrigation ditch and haystacks.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Trees near a hedge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Truncated farm building in Brabant.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Two cows lying in a Brabant barn.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Two haystacks in a field I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Two haystacks in a field II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Underpainting for land and sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willow grove impression of light and shadow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willow grove near the water, prominent tree at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willow grove with boats near the river Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willow grove with flattened images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willow grove with prominent trunk at center.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willow grove with two prominent trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willow suspended over the water before farm building and church tower.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Willows bordering an irrigation ditch near a haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Windmill near tall trees with woman at the wash stoop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Windmill near tall trees, other trees at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Windmill near tall trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1905/Windmill with tall trees and moored barges.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Anemones in a vase.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Apple tree in blue with wavy lines II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Apple tree in blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Apple tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Arum lilies.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Arum lily.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Beach with five piers at Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Beach with one pier at Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Beach with three or four piers at Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Blue irises against an orange background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Blue willow tree I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Blue willow tree II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/By the sea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Castle ruin Brederode I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Church at Zoutelande, three-quarter view.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Composition no. X (authentic).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Composition no. XVI (authentic).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Composition trees 1 (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Composition trees 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Devotion.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Dune landscape.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Dune sketch in orange, pink and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Dunes near Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Dying sunflower I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Dying sunflower II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Eucalyptus[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Evening.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Evening[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Farm at Duivendrecht, lost painted version.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Farm near Duivendrecht, in the evening[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Flower arrangement with rhodondendrons and irises.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Flower.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Flowering appletree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Flowering trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Foxtail lily.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/H.H. van Aalst-Haagedoorn.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Haystacks I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Haystacks II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Haystacks III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/House façade with green trimmed shutters.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Landscape with trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Lighthouse at Westkapelle in brown.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Lighthouse at Westkapelle in orange, pink, purple and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Lighthouse at Westkapelle in pink.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Lighthouse at Westkapelle with clouds.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Little house in sunlight.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Magnolia.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Mill at Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Mill in sunlight  the Winkel mill.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Mill.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Night landscape I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Night landscape II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/On a river bank.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Paysage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Pointillist dune study, crest at center.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Pointillist dune study, crest at left.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Pointillist dune study, crest at right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Pointillist study with dunes and sea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Portrait of Arda Ruhwandl (1891-1968).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Portrait of Cornelis Bergman (1867-1947).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Portrait of a girl in red.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Portrait of a lady.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Portrait of a woman in a yellow hat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Purple irises against a yellow background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Red chryanthemum on blue background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Rhododendrons[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Row of eleven poplars in red, yellow, blue and green.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/S.J.C. van Aalst.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Sea after sunset.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Sea toward sunset.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Seascape.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Single tree silhouette.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Spring sun.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Still life with gingerpot I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Still life with gingerpot II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Still life with glass bottle, metal and ceramic vessels and fruit.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Summer morning.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Summer, dune in Zeeland.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Sun, church in Zeeland.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/The Winkel mill.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/The gray tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/The large nude.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/The sea.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/The trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Tree.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/View from the dunes with beach and piers, Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/White irises against a light blue background I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/White irises against a light blue background II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Woods[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Zeeland church tower.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Zeeland farmer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1910/Zeeland girl.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie 10 in zwart wit.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie in kleur A.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie in kleur B.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie in lijn.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie in lijn[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie no. 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie no.5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Compositie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition in oval with color panes 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition in oval with color planes 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition no. III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition no. IV.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition no.II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition no.VI.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition no.XI (authentic).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition no.XIII (authentic).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition with color planes 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition with color planes 4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Composition with color planes façade.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Farm near Duivendrecht, in the evening[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Farm near Duivendrecht.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Farm near Duivendrecht[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Gemälde no. II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Gemälde no.I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Gemälde no.II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Gemälde no.I[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Pietà de Villeneuve-Lés-Avignon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Portrait of a woman.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Tableau III[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Tableau no. 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Tableau no. 2[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Tableau no. 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Tableau no. 4 (authentic).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Tableau no.I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/The tree A.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Two arum lilies[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Windmill in the evening[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1915/Windmill[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Compositie met rood, blauw, zwart, geel en grijs.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition 1922.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition A.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition B.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition C.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with blue, black, yellow and red.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with blue, red, yellow, and black.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with blue, yellow, black, and red.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with blue, yellow, red , and black.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with blue, yellow, red and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with blue, yellow, red, black, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with color planes and gray lines 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with color planes and gray lines 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with color planes and gray lines 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 3 lozenge composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 5 lozenge composition with colors.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with grid 9 checkerboard composition with light colors.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with large blue plane, red, black, yellow and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with large red plane, black, blue, yellow and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with large red plane, blue, gray, black and yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with large red plane, bluish gray, yellow, black, and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with large red plane, yellow, black, gray and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with large red plane.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with large yellow plane.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with red, black, yellow, blue and grey.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with red, blue, black, yellow and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with red, blue, yellow, black and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with red, yellow, black, blue, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with yellow, black, blue, red, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with yellow, blue, and blue-white.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with yellow, blue, black, red, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition with yellow, red, black, blue and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Composition[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Compostion with red, black, yellow, blue, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Lozenge composition with yellow, black, blue, red and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/No. VI.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Self-portrait[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau 3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau I[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau no. I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau no. I[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Tableau.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1920/Unfinished composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Compositie no. I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Compositie with yellow and red.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition no. II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with black, red, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with blue, black, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with blue, yellow, and red.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with red, blue, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with red, yellow, and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with red, yellow, and blue[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with yellow and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with yellow, red, and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition with yellow, red, and blue[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Composition[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Komposition I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Komposition II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Komposition III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Komposition IV.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Komposition mit Gelb, Zinnober, Schwarz, Blau und verschiedenen grauen und weissen Tönen.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Lozenge composition with red, black, blue, and yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/No. I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/No. II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/No. III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/No. III[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Portrait of Martha Frieda de Fries (1893-...)[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Schilderij no. 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Schilderij no. 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau II[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau I[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau No. I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. III[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. II[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. IV.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. IV[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. IX.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. V.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. VI.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. VII.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. VIII.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. V[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. X.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. XI.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau no. XII.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1925/Tableau[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composion no. I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition A[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition B[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition C[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition D.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition II[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition en blanc et noir I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition en blanc et noir II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition en couleurs.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition no. 15.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition no. 15[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition no. I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition no. III[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition no. II[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition no. IV[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition no. I[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition with double line and yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition with red and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition with red, black, blue, and yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition with red, black, blue, yellow, and gray.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition with red, blue and yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition with yellow and blue[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition with yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Composition[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Farbige aufteilung.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Landscape at Montmorency.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Large composition with red, blue, and yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Lozenge composition with two lines.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/Portrait of Sibbetje.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1930/The banks of the Seine.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/C.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition (A) en rouge et blanc.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition (B), en bleu, jaune et blanc.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition (no. I) gris-rouge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition (no. II) bleu-jaune.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition (no. IV) blanc-bleu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition (no. IV) blanc-bleu[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition - blanc et rouge B.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition - blanc, rouge et jaune A.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition A[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition B[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition C (no. III).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition de lignes et couleur III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition en blanc, noir et rouge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition en blanc, rouge et bleu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition en bleu et jaune.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition en jaune, bleu et blanc I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition en rouge, bleu et blanc II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition in black and white, with double lines.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition no. II..jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition no. I[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition of lines with red (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with blue and yellow.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with blue and yellow[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with double line (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with double line and blue (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with double line and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with double line and yellow (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with double line and yellow and blue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with double lines and yellow (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with red (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Composition with yellow[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Gladiolus[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/Lozenge composition with four yellow lines.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1935/No. I opposition de lignes, de rouge et jaune.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Broadway boogie woogie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition (no. III) blanc-jaune.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition (no. III) blanc-jaune[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition (unfinished)[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition (with red) (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition A (no. I).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition A (no. I)[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 10[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 11[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 12[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 5[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 7[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 8[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition no. 9[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition of red and white nom I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition of red and white nom I[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition of red, blue and white (Nom II).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition of red, blue and white [Nom II].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition with Yellow, Blue and Red.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition with red, blue and yellow (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition with red, blue, and yellow (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Composition with yellow and blue (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/II [...] blanc et rouge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/II [...] blanc et rouge[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/New York City 1 (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/New York City 2 (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/New York City 3 (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/New York City.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/New York.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/New York[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/No. III opposition de lignes de blanc et jaune.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/No. III opposition de lignes de blanc et jaune[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Pictiure no. III.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Place de la Concorde.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Place de la Concorde[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Rythme de lignes droites (et couleur).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Rythme de lignes droites (et couleur)[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Trafalgar Square.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1940/Trafalgar Square[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/painting/1945/Victory boogie woogie (unfinished).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/postcard/1905/Portrait of Louis van Zwanenbergh (1847-1916).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/print/1895/Young woman peeling potaties, etching.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/print/1900/St. Jacob's church.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/print/1925/Der Sieg der Farbe P.Mondriaan, Composition no. 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/pulpit, decorative wall component/1900/Amsterdam English title Pulpit decorations for the English church, Amsterdam.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/scale-model/1925/Stage set model for Michel Seuphor's L'Éphémère est éternel.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/sketchbook, drawing/1915/Sketchbook I, Domburg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/table/1945/Desk.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/table/1945/Work table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/terracotta/1915/Design for the decoration of a plate.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/triptych/1910/Evolution.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/unknown/1905/Landscape with apple tree at left and farm building.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/unknown/1915/Ocean 6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/unknown/1920/Composition with grid 5a lozenge composition with colors.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/unknown/1925/Composition.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/unknown/Date Missing/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1895/Farmyard with laundry and logs.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1895/Haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1895/Irrigation ditch, bridge and goat, watercolor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Apples on a table, two on a plate.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Apples, ginger pot and plate on a ledge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Apples, round pot and plate on a table.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/At work in the fields.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Bleechworks on the Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Bridge on the Achterweg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Chrysanthemum in a tube vase, drawing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Chrysanthemum in a tube vase.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Drydock at Durgerdam.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Farm buildings near a canal with small boat[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Farmstead along a canal with bridge and farmer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Farmyard in the Achterhoek[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Female torso in profile with book.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Houses viewed from a bridge in the Schinkelbuurt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Irrigation ditch with young pollarded willow[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Landscape near Arnhem.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Near Arnhem.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Seated woman with arms crossed.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Shaded irrigation ditch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/The royal wax candle factory.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Three cows in a pot stall.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Tjalks moored on the Weesperzijde.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Truncated view of tjalk and house façade[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Upright chrysanthemum against a blue-gray ground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Upright chrysanthemum against a brownish ground.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1900/Woman spinning.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Amaryllis[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Amstel Café 't Vissertje I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Bend in the Gein with poplars, three isolated.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Chrysanthemum in a bottle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Chrysanthemum in a bottle[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Dahlia[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Farm building at Nistelrode I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Farm building at Nistelrode II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Farmstead along the water screened by nine tall trees.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Farmstead behind waterway and orchard.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Farmstead with long row of trees on the Gein[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Geinrust farm with isolated trees under pink sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Geinrust farm with saplings[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Geinrust farm with two cows at the water's edge.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Hannes van Nistelrode seated in his farmhouse.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Kitchen interior Brabant farmhouse interior with hearth.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Landscape with mowed field I.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Landscape with mowed field II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Landscape with single haystack.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Landzicht farm under bluish-gray sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Landzicht farm under unclouded blue sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Landzicht farm with mirror reflection in the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Meandering watercourse[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Oostzijdse mill with extended sky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Oostzijdse mill with extended sky[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Post mill at Uden.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Row of trees by the water, near the Gein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/The white bull calf[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Tjalk moored near the Omval.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Willow grove on the water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1905/Young tree grove amidst water reflections.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Amaryllis II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Amaryllis.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Amstel, Café 't Vissertje II.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Chrysanthemum blossom viewed frontally[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Chrysanthemum leaning right.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Dying sunflower.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Red amaryllis with blue background[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1910/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Chrysanthemum in a glass.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Dahlia[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Iris.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Lily[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Marigold in a bottle[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Rose in a glass[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Stalk with two japanese lilies.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1915/Two roses[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Dahlia[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Lily[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Marigold in a bottle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Marigold in a glass.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Marigold in a glass[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Red amaryllis with blue background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Red amaryllis with blue background[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Rose in a glass[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Stalk with two Japanese lilies.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1920/Two roses[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1925/Study of two marigolds 1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1925/Two dahlia's.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1930/Chrysanthemum in a bottle[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1930/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1930/Lily[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1930/Rose in a glass[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1930/Two roses.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/1930/Two roses[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/Date Missing/Chrysanthemum in a glass[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/Date Missing/Chrysanthemum[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/Date Missing/Dahlia.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/Date Missing/Rose in a glass[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/Date Missing/Rose[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter-notebook-writeup/images/watercolor (painting)/Date Missing/Two roses[1].jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/processing.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +1267,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="187">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -22,10 +1280,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/data_ingestion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-2754">
               <caret line="189" selection-start-line="189" selection-end-line="189" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -37,8 +1295,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/processing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="118" column="18" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="18" />
+            <state relative-caret-position="476">
+              <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -67,8 +1325,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/data_ingestion.py" />
-        <option value="$PROJECT_DIR$/src/processing.py" />
+        <option value="$PROJECT_DIR$/src/assignment2.py" />
         <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/src/processing.py" />
       </list>
     </option>
   </component>
@@ -86,7 +1345,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,10 +1366,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,7 +1420,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
-      <option name="PARAMETERS" value="data process" />
+      <option name="PARAMETERS" value="test-project" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -196,13 +1456,9 @@
     <frame x="-8" y="-8" width="2576" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
@@ -210,44 +1466,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assignment1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_ingestion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment1.py" />
+    <entry file="file://$PROJECT_DIR$/get_data.py" />
+    <entry file="file://$PROJECT_DIR$/src/assignment2.py" />
     <entry file="file://$PROJECT_DIR$/src/processing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="118" column="18" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="18" />
+        <state relative-caret-position="476">
+          <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -256,10 +1491,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="187">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_ingestion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2754">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>

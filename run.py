@@ -7,7 +7,7 @@ import sys
 
 
 def main(args):
-    if args[0] == 'data-test':
+    if args[0] == 'test-project':
         cfg_path = os.getcwd() + '\config\\test-params.json'
         cfg = json.load(open(cfg_path))
     elif args[0] == 'data':

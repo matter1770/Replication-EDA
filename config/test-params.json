@@ -1,5 +1,6 @@
 {
     "homepage" : "http://pietmondrian.rkdmonographs.nl",
     "unavailable_images": "unavailable_images.txt",
-    "dataset_size" : 20
+    "dataset_size" : 20,
+    "load_dataset" : 1
 }
